@@ -1,0 +1,10 @@
+Which of the following is the correct extension of a Python file?|.pyth|.pt|.pyt|.py|D
+Which of the following is NOT a valid Python data type??|List|Tuple|Integer|Character|D
+Which of the following statements is true about Python functions??|Afunction must always return a value|A function can return a value|A function cannot return a value|Afunction is always recursive|B
+Which of the following methods can be used to remove whitespace characters from the beginning and end of a string?|strip()|remove()|delete()|clear()|A
+Which of the following methods can be used  beginning and end of a string??|strip()|remove()|delete()|clear()|A
+What is the correct syntax for defining a class in Python??|class MyClass:|MyClass class:|define MyClass:|new class MyClass|A
+Which of the following is used to handle exceptions in Python??|try-except|try-catch|if-else|do-except|A
+Which of the following is the correct way to open a file for reading in Python??|file.open('file.txt', 'read')|open('file.txt', 'r')|file('file.txt', 'r')|open('file.txt')|B
+Which of the following is true for Python dictionaries??|Keys can be duplicated|Values can be duplicated|Keys must be mutable|Values must be unique|B
+Which of the following is not a valid way to import a module in Python??|import math|import math as m|from math import *|import * from math|D
